@@ -5,8 +5,8 @@
 	  <parameter name="Browser" value="Chrome"></parameter>
 		<classes>
 			
-			<class name="myInfo.login" />
-			<class name="myInfo.Setup" />
+			<class name="login.login" />
+			<class name="login.Setup" />
 			<class name="myInfo.PersonalDetails" />
 			<class name="myInfo.ContactDetails" />
 			<class name="myInfo.Dependents" />
